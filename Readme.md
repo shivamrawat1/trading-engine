@@ -51,9 +51,7 @@ The implementation uses atomic operations to ensure thread safety:
 - Atomic flags for order matching status
 - Thread-safe order addition and matching
 
-## How to Compile and Run
 
-### Compilation
 
 ```bash
 gcc -o stock_trading_system stock_trading_system.c -pthread
