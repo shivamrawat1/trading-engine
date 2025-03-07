@@ -1,0 +1,310 @@
+Added SELL order: AMZN, 8 shares at $59.49 (ID: 0)
+Added SELL order: JPM, 19 shares at $33.78 (ID: 1)
+Added BUY order: WMT, 53 shares at $10.58 (ID: 3)
+Added BUY order: MSFT, 36 shares at $53.54 (ID: 2)
+Added SELL order: NVDA, 12 shares at $7.29 (ID: 4)
+Added BUY order: GOOGL, 81 shares at $13.18 (ID: 5)
+Added BUY order: JPM, 71 shares at $58.19 (ID: 6)
+Added SELL order: META, 10 shares at $81.02 (ID: 7)
+Added BUY order: BAC, 52 shares at $28.93 (ID: 8)
+Added BUY order: TSLA, 11 shares at $71.28 (ID: 9)
+Added SELL order: META, 39 shares at $67.57 (ID: 10)
+Added SELL order: META, 44 shares at $46.25 (ID: 11)
+Added BUY order: JPM, 57 shares at $73.85 (ID: 12)
+Added BUY order: WMT, 85 shares at $40.40 (ID: 13)
+Added BUY order: MSFT, 51 shares at $54.58 (ID: 14)
+Added BUY order: META, 34 shares at $2.36 (ID: 15)
+Added BUY order: JPM, 93 shares at $97.44 (ID: 16)
+Added BUY order: MSFT, 36 shares at $96.98 (ID: 17)
+Added SELL order: MSFT, 4 shares at $32.84 (ID: 18)
+Added BUY order: GOOGL, 41 shares at $37.52 (ID: 19)
+Added BUY order: META, 98 shares at $95.69 (ID: 20)
+MATCH: BUY #2 and SELL #18 for MSFT: 4 shares at $32.84
+MATCH: BUY #6 and SELL #1 for JPM: 19 shares at $33.78
+MATCH: BUY #20 and SELL #11 for META: 44 shares at $46.25
+Added BUY order: AMZN, 60 shares at $91.00 (ID: 21)
+MATCH: BUY #20 and SELL #10 for META: 39 shares at $67.57
+MATCH: BUY #21 and SELL #0 for AMZN: 8 shares at $59.49
+Added BUY order: NVDA, 25 shares at $0.72 (ID: 22)
+MATCH: BUY #20 and SELL #7 for META: 10 shares at $81.02
+Added BUY order: NVDA, 91 shares at $74.71 (ID: 23)
+MATCH: BUY #23 and SELL #4 for NVDA: 12 shares at $7.29
+Added BUY order: MSFT, 68 shares at $74.37 (ID: 24)
+Added BUY order: GOOGL, 78 shares at $20.38 (ID: 25)
+Added SELL order: META, 28 shares at $13.25 (ID: 26)
+Added SELL order: MSFT, 96 shares at $82.74 (ID: 27)
+Added SELL order: TSLA, 23 shares at $2.02 (ID: 28)
+Added BUY order: AMZN, 38 shares at $11.60 (ID: 29)
+Added SELL order: NVDA, 15 shares at $13.83 (ID: 30)
+Added SELL order: GOOGL, 70 shares at $20.01 (ID: 31)
+Added BUY order: JPM, 46 shares at $80.51 (ID: 32)
+Added BUY order: MSFT, 89 shares at $30.45 (ID: 33)
+Added SELL order: META, 47 shares at $25.15 (ID: 34)
+Added BUY order: NVDA, 62 shares at $32.57 (ID: 35)
+Added SELL order: JPM, 87 shares at $1.51 (ID: 36)
+Added SELL order: JPM, 55 shares at $38.81 (ID: 37)
+Added SELL order: JPM, 22 shares at $7.97 (ID: 38)
+Added SELL order: TSLA, 20 shares at $69.54 (ID: 39)
+MATCH: BUY #6 and SELL #36 for JPM: 52 shares at $1.51
+MATCH: BUY #9 and SELL #28 for TSLA: 11 shares at $2.02
+MATCH: BUY #12 and SELL #36 for JPM: 35 shares at $1.51
+MATCH: BUY #16 and SELL #38 for JPM: 22 shares at $7.97
+MATCH: BUY #17 and SELL #27 for MSFT: 36 shares at $82.74
+MATCH: BUY #19 and SELL #31 for GOOGL: 41 shares at $20.01
+MATCH: BUY #20 and SELL #26 for META: 5 shares at $13.25
+MATCH: BUY #23 and SELL #30 for NVDA: 15 shares at $13.83
+MATCH: BUY #25 and SELL #31 for GOOGL: 29 shares at $20.01
+MATCH: BUY #32 and SELL #37 for JPM: 46 shares at $38.81
+Added SELL order: GOOGL, 28 shares at $0.47 (ID: 40)
+Added BUY order: AAPL, 39 shares at $75.34 (ID: 41)
+MATCH: BUY #5 and SELL #40 for GOOGL: 28 shares at $0.47
+MATCH: BUY #12 and SELL #37 for JPM: 9 shares at $38.81
+Added SELL order: BAC, 68 shares at $59.16 (ID: 42)
+Added BUY order: AAPL, 46 shares at $23.76 (ID: 43)
+Added SELL order: TSLA, 13 shares at $88.63 (ID: 44)
+Added SELL order: MSFT, 89 shares at $40.21 (ID: 45)
+MATCH: BUY #2 and SELL #45 for MSFT: 32 shares at $40.21
+MATCH: BUY #14 and SELL #45 for MSFT: 51 shares at $40.21
+MATCH: BUY #24 and SELL #45 for MSFT: 6 shares at $40.21
+Added BUY order: AMZN, 83 shares at $84.63 (ID: 46)
+Added SELL order: META, 2 shares at $73.01 (ID: 47)
+Added SELL order: AAPL, 69 shares at $10.12 (ID: 48)
+Added BUY order: AMZN, 47 shares at $90.04 (ID: 49)
+Added BUY order: JPM, 95 shares at $9.15 (ID: 50)
+Added SELL order: AAPL, 85 shares at $12.99 (ID: 51)
+Added BUY order: AMZN, 100 shares at $34.56 (ID: 52)
+Added SELL order: WMT, 69 shares at $65.90 (ID: 53)
+Added SELL order: GOOGL, 6 shares at $67.09 (ID: 54)
+Added BUY order: AMZN, 11 shares at $38.39 (ID: 55)
+Added SELL order: MSFT, 89 shares at $43.73 (ID: 56)
+Added BUY order: MSFT, 54 shares at $97.37 (ID: 57)
+Added SELL order: NVDA, 63 shares at $33.98 (ID: 58)
+Added BUY order: WMT, 93 shares at $55.83 (ID: 59)
+Added SELL order: META, 68 shares at $3.95 (ID: 60)
+MATCH: BUY #23 and SELL #58 for NVDA: 63 shares at $33.98
+MATCH: BUY #24 and SELL #56 for MSFT: 62 shares at $43.73
+MATCH: BUY #41 and SELL #48 for AAPL: 39 shares at $10.12
+MATCH: BUY #43 and SELL #48 for AAPL: 30 shares at $10.12
+MATCH: BUY #57 and SELL #56 for MSFT: 27 shares at $43.73
+Added SELL order: GOOGL, 24 shares at $69.58 (ID: 61)
+Added BUY order: JPM, 46 shares at $77.28 (ID: 62)
+MATCH: BUY #43 and SELL #51 for AAPL: 16 shares at $12.99
+MATCH: BUY #57 and SELL #27 for MSFT: 27 shares at $82.74
+Added BUY order: META, 78 shares at $22.03 (ID: 63)
+MATCH: BUY #63 and SELL #60 for META: 68 shares at $3.95
+Added BUY order: WMT, 6 shares at $14.42 (ID: 64)
+Added SELL order: WMT, 17 shares at $41.66 (ID: 65)
+Added SELL order: WMT, 12 shares at $34.39 (ID: 66)
+Added SELL order: BAC, 36 shares at $84.15 (ID: 67)
+Added BUY order: META, 3 shares at $68.34 (ID: 68)
+Added BUY order: NVDA, 72 shares at $39.61 (ID: 69)
+Added BUY order: AAPL, 4 shares at $99.35 (ID: 70)
+Added BUY order: BAC, 12 shares at $92.26 (ID: 71)
+Added SELL order: AMZN, 35 shares at $70.31 (ID: 72)
+Added BUY order: GOOGL, 9 shares at $53.17 (ID: 73)
+Added SELL order: TSLA, 30 shares at $12.30 (ID: 74)
+Added BUY order: NVDA, 21 shares at $98.91 (ID: 75)
+Added BUY order: AMZN, 30 shares at $30.00 (ID: 76)
+Added SELL order: GOOGL, 80 shares at $0.19 (ID: 77)
+Added BUY order: META, 22 shares at $80.02 (ID: 78)
+MATCH: BUY #5 and SELL #77 for GOOGL: 53 shares at $0.19
+MATCH: BUY #13 and SELL #66 for WMT: 12 shares at $34.39
+MATCH: BUY #21 and SELL #72 for AMZN: 35 shares at $70.31
+MATCH: BUY #25 and SELL #77 for GOOGL: 27 shares at $0.19
+MATCH: BUY #59 and SELL #65 for WMT: 17 shares at $41.66
+MATCH: BUY #63 and SELL #26 for META: 10 shares at $13.25
+MATCH: BUY #68 and SELL #26 for META: 3 shares at $13.25
+MATCH: BUY #70 and SELL #51 for AAPL: 4 shares at $12.99
+MATCH: BUY #71 and SELL #42 for BAC: 12 shares at $59.16
+MATCH: BUY #78 and SELL #26 for META: 10 shares at $13.25
+Added SELL order: AAPL, 57 shares at $31.05 (ID: 79)
+Added BUY order: TSLA, 63 shares at $76.72 (ID: 80)
+Added BUY order: AAPL, 16 shares at $36.38 (ID: 81)
+MATCH: BUY #78 and SELL #34 for META: 12 shares at $25.15
+MATCH: BUY #80 and SELL #28 for TSLA: 12 shares at $2.02
+Added SELL order: JPM, 74 shares at $29.50 (ID: 82)
+Added BUY order: META, 91 shares at $52.10 (ID: 83)
+MATCH: BUY #12 and SELL #82 for JPM: 13 shares at $29.50
+MATCH: BUY #16 and SELL #82 for JPM: 61 shares at $29.50
+MATCH: BUY #80 and SELL #74 for TSLA: 30 shares at $12.30
+MATCH: BUY #81 and SELL #51 for AAPL: 16 shares at $12.99
+MATCH: BUY #83 and SELL #34 for META: 35 shares at $25.15
+Added BUY order: JPM, 89 shares at $93.78 (ID: 84)
+Added SELL order: MSFT, 45 shares at $21.08 (ID: 85)
+Added SELL order: AAPL, 20 shares at $1.00 (ID: 86)
+Added BUY order: GOOGL, 73 shares at $0.91 (ID: 87)
+MATCH: BUY #33 and SELL #85 for MSFT: 45 shares at $21.08
+MATCH: BUY #80 and SELL #39 for TSLA: 20 shares at $69.54
+Added BUY order: NVDA, 25 shares at $95.40 (ID: 88)
+Added SELL order: GOOGL, 42 shares at $15.48 (ID: 89)
+Added SELL order: MSFT, 9 shares at $96.26 (ID: 90)
+Added SELL order: AMZN, 23 shares at $57.39 (ID: 91)
+Added SELL order: META, 85 shares at $68.55 (ID: 92)
+Added SELL order: MSFT, 47 shares at $45.48 (ID: 93)
+Added SELL order: META, 42 shares at $43.84 (ID: 94)
+Added BUY order: TSLA, 77 shares at $6.30 (ID: 95)
+Added BUY order: META, 38 shares at $46.20 (ID: 96)
+Added BUY order: WMT, 99 shares at $32.89 (ID: 97)
+Added SELL order: BAC, 14 shares at $73.34 (ID: 98)
+MATCH: BUY #21 and SELL #91 for AMZN: 17 shares at $57.39
+MATCH: BUY #25 and SELL #89 for GOOGL: 22 shares at $15.48
+MATCH: BUY #46 and SELL #91 for AMZN: 6 shares at $57.39
+MATCH: BUY #73 and SELL #89 for GOOGL: 9 shares at $15.48
+MATCH: BUY #83 and SELL #94 for META: 42 shares at $43.84
+Added SELL order: META, 19 shares at $24.44 (ID: 99)
+MATCH: BUY #83 and SELL #99 for META: 14 shares at $24.44
+MATCH: BUY #96 and SELL #99 for META: 5 shares at $24.44
+Added SELL order: AAPL, 51 shares at $66.06 (ID: 100)
+Added BUY order: AAPL, 9 shares at $11.01 (ID: 101)
+Added SELL order: TSLA, 97 shares at $46.92 (ID: 102)
+Added SELL order: GOOGL, 34 shares at $47.93 (ID: 103)
+Added BUY order: BAC, 86 shares at $16.02 (ID: 104)
+MATCH: BUY #80 and SELL #102 for TSLA: 1 shares at $46.92
+MATCH: BUY #101 and SELL #86 for AAPL: 9 shares at $1.00
+Added SELL order: WMT, 75 shares at $81.82 (ID: 105)
+Added SELL order: AAPL, 97 shares at $31.75 (ID: 106)
+Added BUY order: JPM, 20 shares at $6.38 (ID: 107)
+Added SELL order: BAC, 12 shares at $42.68 (ID: 108)
+Added SELL order: AAPL, 18 shares at $27.34 (ID: 109)
+Added BUY order: NVDA, 30 shares at $53.91 (ID: 110)
+Added SELL order: TSLA, 26 shares at $82.47 (ID: 111)
+Added SELL order: NVDA, 35 shares at $26.89 (ID: 112)
+Added SELL order: MSFT, 23 shares at $2.29 (ID: 113)
+MATCH: BUY #23 and SELL #112 for NVDA: 1 shares at $26.89
+MATCH: BUY #33 and SELL #113 for MSFT: 23 shares at $2.29
+MATCH: BUY #35 and SELL #112 for NVDA: 34 shares at $26.89
+Added BUY order: WMT, 69 shares at $86.02 (ID: 114)
+Added BUY order: AMZN, 76 shares at $56.92 (ID: 115)
+Added SELL order: AAPL, 23 shares at $30.74 (ID: 116)
+Added SELL order: GOOGL, 89 shares at $8.22 (ID: 117)
+Added BUY order: JPM, 36 shares at $41.55 (ID: 118)
+MATCH: BUY #114 and SELL #53 for WMT: 69 shares at $65.90
+Added BUY order: WMT, 35 shares at $61.89 (ID: 119)
+Added SELL order: META, 89 shares at $28.78 (ID: 120)
+Added SELL order: AMZN, 33 shares at $39.16 (ID: 121)
+Added BUY order: AMZN, 14 shares at $73.87 (ID: 122)
+Added BUY order: JPM, 60 shares at $40.33 (ID: 123)
+Added BUY order: META, 76 shares at $87.86 (ID: 124)
+MATCH: BUY #46 and SELL #121 for AMZN: 33 shares at $39.16
+MATCH: BUY #96 and SELL #120 for META: 33 shares at $28.78
+Added BUY order: GOOGL, 4 shares at $22.94 (ID: 125)
+Added SELL order: JPM, 67 shares at $46.37 (ID: 126)
+Added SELL order: NVDA, 5 shares at $81.42 (ID: 127)
+Added SELL order: TSLA, 41 shares at $11.30 (ID: 128)
+Added SELL order: BAC, 11 shares at $80.72 (ID: 129)
+Added BUY order: NVDA, 65 shares at $20.48 (ID: 130)
+Added BUY order: AMZN, 100 shares at $63.25 (ID: 131)
+MATCH: BUY #16 and SELL #126 for JPM: 10 shares at $46.37
+MATCH: BUY #62 and SELL #126 for JPM: 46 shares at $46.37
+MATCH: BUY #75 and SELL #127 for NVDA: 5 shares at $81.42
+MATCH: BUY #84 and SELL #126 for JPM: 11 shares at $46.37
+MATCH: BUY #124 and SELL #120 for META: 56 shares at $28.78
+MATCH: BUY #125 and SELL #117 for GOOGL: 4 shares at $8.22
+Added SELL order: BAC, 39 shares at $77.30 (ID: 132)
+Added BUY order: GOOGL, 28 shares at $2.90 (ID: 133)
+Added SELL order: AAPL, 22 shares at $8.91 (ID: 134)
+Added SELL order: JPM, 96 shares at $72.62 (ID: 135)
+MATCH: BUY #84 and SELL #135 for JPM: 78 shares at $72.62
+MATCH: BUY #124 and SELL #92 for META: 20 shares at $68.55
+Added SELL order: JPM, 90 shares at $43.67 (ID: 136)
+Added SELL order: AMZN, 52 shares at $1.59 (ID: 137)
+Added BUY order: GOOGL, 23 shares at $80.71 (ID: 138)
+Added BUY order: AMZN, 100 shares at $49.98 (ID: 139)
+Added BUY order: BAC, 81 shares at $59.73 (ID: 140)
+MATCH: BUY #29 and SELL #137 for AMZN: 38 shares at $1.59
+MATCH: BUY #46 and SELL #137 for AMZN: 14 shares at $1.59
+MATCH: BUY #138 and SELL #117 for GOOGL: 23 shares at $8.22
+MATCH: BUY #140 and SELL #108 for BAC: 12 shares at $42.68
+Added BUY order: AMZN, 31 shares at $38.32 (ID: 141)
+Added SELL order: MSFT, 12 shares at $13.07 (ID: 142)
+Added BUY order: JPM, 25 shares at $9.89 (ID: 143)
+MATCH: BUY #33 and SELL #142 for MSFT: 12 shares at $13.07
+MATCH: BUY #140 and SELL #42 for BAC: 56 shares at $59.16
+Added SELL order: META, 46 shares at $10.28 (ID: 144)
+Added SELL order: NVDA, 62 shares at $26.92 (ID: 145)
+Added BUY order: NVDA, 22 shares at $79.05 (ID: 146)
+Added BUY order: BAC, 82 shares at $0.07 (ID: 147)
+Added BUY order: NVDA, 7 shares at $14.86 (ID: 148)
+Added SELL order: TSLA, 47 shares at $97.42 (ID: 149)
+MATCH: BUY #35 and SELL #145 for NVDA: 28 shares at $26.92
+MATCH: BUY #69 and SELL #145 for NVDA: 34 shares at $26.92
+Added BUY order: GOOGL, 31 shares at $17.10 (ID: 150)
+Added SELL order: JPM, 20 shares at $93.69 (ID: 151)
+Added BUY order: NVDA, 72 shares at $14.44 (ID: 152)
+Added SELL order: GOOGL, 52 shares at $17.79 (ID: 153)
+Added SELL order: TSLA, 71 shares at $79.15 (ID: 154)
+Added SELL order: META, 49 shares at $8.36 (ID: 155)
+Added BUY order: TSLA, 100 shares at $3.39 (ID: 156)
+Added SELL order: META, 82 shares at $58.73 (ID: 157)
+Added BUY order: NVDA, 42 shares at $17.26 (ID: 159)
+Added BUY order: AMZN, 77 shares at $71.54 (ID: 158)
+MATCH: BUY #150 and SELL #117 for GOOGL: 31 shares at $8.22
+Added BUY order: NVDA, 83 shares at $78.96 (ID: 160)
+Added BUY order: META, 31 shares at $45.36 (ID: 161)
+Added BUY order: META, 49 shares at $68.43 (ID: 162)
+MATCH: BUY #161 and SELL #155 for META: 31 shares at $8.36
+MATCH: BUY #162 and SELL #155 for META: 18 shares at $8.36
+Added BUY order: JPM, 69 shares at $5.80 (ID: 163)
+Added SELL order: JPM, 59 shares at $40.52 (ID: 164)
+MATCH: BUY #162 and SELL #144 for META: 31 shares at $10.28
+Added BUY order: META, 83 shares at $68.55 (ID: 165)
+Added BUY order: JPM, 24 shares at $49.32 (ID: 166)
+Added SELL order: AMZN, 5 shares at $50.41 (ID: 167)
+Added SELL order: JPM, 98 shares at $39.93 (ID: 168)
+Added SELL order: AAPL, 6 shares at $42.63 (ID: 169)
+Added BUY order: MSFT, 85 shares at $93.68 (ID: 170)
+Added SELL order: META, 39 shares at $27.59 (ID: 171)
+Added SELL order: AAPL, 26 shares at $49.32 (ID: 172)
+Added BUY order: NVDA, 63 shares at $43.73 (ID: 173)
+Added BUY order: AAPL, 4 shares at $74.98 (ID: 174)
+Added SELL order: WMT, 77 shares at $34.39 (ID: 176)
+Added BUY order: TSLA, 46 shares at $83.62 (ID: 175)
+MATCH: BUY #13 and SELL #176 for WMT: 73 shares at $34.39
+MATCH: BUY #46 and SELL #167 for AMZN: 5 shares at $50.41
+MATCH: BUY #59 and SELL #176 for WMT: 4 shares at $34.39
+MATCH: BUY #118 and SELL #168 for JPM: 36 shares at $39.93
+MATCH: BUY #123 and SELL #168 for JPM: 60 shares at $39.93
+MATCH: BUY #165 and SELL #144 for META: 15 shares at $10.28
+MATCH: BUY #166 and SELL #168 for JPM: 2 shares at $39.93
+MATCH: BUY #170 and SELL #93 for MSFT: 47 shares at $45.48
+MATCH: BUY #174 and SELL #86 for AAPL: 4 shares at $1.00
+MATCH: BUY #175 and SELL #128 for TSLA: 41 shares at $11.30
+Added BUY order: MSFT, 46 shares at $23.03 (ID: 177)
+Added BUY order: GOOGL, 30 shares at $4.21 (ID: 178)
+Added SELL order: META, 57 shares at $24.29 (ID: 179)
+MATCH: BUY #165 and SELL #179 for META: 57 shares at $24.29
+MATCH: BUY #166 and SELL #164 for JPM: 22 shares at $40.52
+MATCH: BUY #170 and SELL #27 for MSFT: 33 shares at $82.74
+MATCH: BUY #175 and SELL #102 for TSLA: 5 shares at $46.92
+Added SELL order: META, 66 shares at $95.59 (ID: 180)
+Added BUY order: META, 28 shares at $86.43 (ID: 181)
+MATCH: BUY #165 and SELL #171 for META: 11 shares at $27.59
+MATCH: BUY #181 and SELL #171 for META: 28 shares at $27.59
+Added SELL order: TSLA, 59 shares at $31.27 (ID: 182)
+Added BUY order: JPM, 50 shares at $51.60 (ID: 183)
+Added SELL order: BAC, 92 shares at $86.38 (ID: 184)
+Added BUY order: GOOGL, 54 shares at $23.26 (ID: 185)
+Added SELL order: JPM, 73 shares at $0.58 (ID: 186)
+Added BUY order: TSLA, 24 shares at $1.80 (ID: 187)
+Added SELL order: META, 49 shares at $24.50 (ID: 188)
+Added SELL order: TSLA, 36 shares at $80.39 (ID: 189)
+Added SELL order: AAPL, 6 shares at $94.53 (ID: 190)
+Added BUY order: BAC, 30 shares at $54.68 (ID: 191)
+Added SELL order: NVDA, 63 shares at $60.77 (ID: 192)
+Added BUY order: META, 46 shares at $9.02 (ID: 193)
+Added BUY order: JPM, 31 shares at $14.79 (ID: 194)
+MATCH: BUY #50 and SELL #186 for JPM: 73 shares at $0.58
+MATCH: BUY #75 and SELL #192 for NVDA: 16 shares at $60.77
+MATCH: BUY #88 and SELL #192 for NVDA: 25 shares at $60.77
+MATCH: BUY #146 and SELL #192 for NVDA: 22 shares at $60.77
+MATCH: BUY #183 and SELL #164 for JPM: 37 shares at $40.52
+MATCH: BUY #185 and SELL #117 for GOOGL: 31 shares at $8.22
+Added SELL order: GOOGL, 74 shares at $23.98 (ID: 195)
+Added SELL order: JPM, 100 shares at $80.95 (ID: 196)
+Added SELL order: BAC, 94 shares at $88.45 (ID: 197)
+Added SELL order: AMZN, 46 shares at $87.68 (ID: 198)
+Added SELL order: META, 16 shares at $9.36 (ID: 199)
+MATCH: BUY #49 and SELL #198 for AMZN: 46 shares at $87.68
+MATCH: BUY #183 and SELL #136 for JPM: 13 shares at $43.67
+MATCH: BUY #185 and SELL #89 for GOOGL: 11 shares at $15.48
+Simulation complete. Total orders: 200
